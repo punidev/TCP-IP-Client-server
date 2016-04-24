@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace server
 {
-    public class Program
+    public class Server
     {
         private const int Port = 11000;
 
