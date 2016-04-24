@@ -1,5 +1,0 @@
-D:\ЛАБЫ\ТА\Connect\tcp\bin\Debug\tcp.dll
-D:\ЛАБЫ\ТА\Connect\tcp\bin\Debug\tcp.pdb
-D:\ЛАБЫ\ТА\Connect\tcp\obj\Debug\tcp.csprojResolveAssemblyReference.cache
-D:\ЛАБЫ\ТА\Connect\tcp\obj\Debug\tcp.dll
-D:\ЛАБЫ\ТА\Connect\tcp\obj\Debug\tcp.pdb
