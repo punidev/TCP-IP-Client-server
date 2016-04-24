@@ -1,8 +1,0 @@
-D:\ЛАБЫ\ТА\Connect\client\bin\Debug\client.exe.config
-D:\ЛАБЫ\ТА\Connect\client\bin\Debug\client.exe
-D:\ЛАБЫ\ТА\Connect\client\bin\Debug\client.pdb
-D:\ЛАБЫ\ТА\Connect\client\bin\Debug\tcp.dll
-D:\ЛАБЫ\ТА\Connect\client\bin\Debug\tcp.pdb
-D:\ЛАБЫ\ТА\Connect\client\obj\Debug\client.exe
-D:\ЛАБЫ\ТА\Connect\client\obj\Debug\client.pdb
-D:\ЛАБЫ\ТА\Connect\client\obj\Debug\client.csprojResolveAssemblyReference.cache
