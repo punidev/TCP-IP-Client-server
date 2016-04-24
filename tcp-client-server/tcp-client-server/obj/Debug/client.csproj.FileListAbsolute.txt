@@ -1,6 +1,0 @@
-D:\ЛАБЫ\ТА\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.exe.config
-D:\ЛАБЫ\ТА\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.exe
-D:\ЛАБЫ\ТА\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.pdb
-D:\ЛАБЫ\ТА\tcp-client-server\tcp-client-server\obj\Debug\tcp-client-server.exe
-D:\ЛАБЫ\ТА\tcp-client-server\tcp-client-server\obj\Debug\tcp-client-server.pdb
-D:\ЛАБЫ\ТА\tcp-client-server\tcp-client-server\obj\Debug\client.csprojResolveAssemblyReference.cache

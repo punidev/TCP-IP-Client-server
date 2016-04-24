@@ -1,1 +1,0 @@
-D:\ЛАБЫ\ТА\tcp-client-server\tcp-client-server\bin\Debug\tcp-client-server.exe.config
