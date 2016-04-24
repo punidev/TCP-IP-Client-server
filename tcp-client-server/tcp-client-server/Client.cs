@@ -1,10 +1,12 @@
 ﻿using System;
+using System.IO;
 using System.Net.Sockets;
 using System.Text;
+using System.Threading;
 
 namespace tcp_client_server
 {
-    public class Program
+    public class Client
     {
         private const int Port = 11000;
         private const string Server = "127.0.0.1";
@@ -19,6 +21,8 @@ namespace tcp_client_server
                 var data = new byte[256];
                 var response = new StringBuilder();
                 var stream = client.GetStream();
+
+                new Thread(SenderThead).Start(stream);
 
                 do
                 {
@@ -45,6 +49,22 @@ namespace tcp_client_server
 
             Console.WriteLine("Запрос завершен...");
             Console.Read();
+        }
+
+        private static void SenderThead(object obj)
+        {
+            var stream = (NetworkStream) obj;
+            var writer = new StreamWriter(stream,Encoding.UTF8){AutoFlush = true};
+            while (true)
+            {
+                var input = Console.ReadLine();
+                writer.WriteLine(input);
+                if (input == "exit")
+                {
+                    stream.Close(); // можно сразу закрыть
+                    return;
+                }
+            }
         }
     }
 }
