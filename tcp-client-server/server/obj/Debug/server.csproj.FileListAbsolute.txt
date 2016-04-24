@@ -1,0 +1,6 @@
+D:\ЛАБЫ\ТА\tcp-client-server\server\bin\Debug\server.exe.config
+D:\ЛАБЫ\ТА\tcp-client-server\server\bin\Debug\server.exe
+D:\ЛАБЫ\ТА\tcp-client-server\server\bin\Debug\server.pdb
+D:\ЛАБЫ\ТА\tcp-client-server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\ЛАБЫ\ТА\tcp-client-server\server\obj\Debug\server.exe
+D:\ЛАБЫ\ТА\tcp-client-server\server\obj\Debug\server.pdb
